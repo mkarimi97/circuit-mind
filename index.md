@@ -5,5 +5,5 @@ title: Analog Hub
 
 # Welcome to AnalogHub
 
-- [Cadence Analysis](pages/tutorial1.html)
+- [Cadence Analysis](pages/page1.md)
 - [Virtuoso Tricks](pages/tutorial2.html)
